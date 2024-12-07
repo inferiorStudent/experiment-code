@@ -18,4 +18,6 @@
 # result
 ![SMAA wrecker](./pics/untitled.jpg)
 
+It seems that the result is not so bad!
+
 last updating time: Dec. 7th, 2024
