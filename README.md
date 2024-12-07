@@ -1,4 +1,4 @@
-# Simulation: real-time scheduling with GPU resource contention
+# Simulation: real-time scheduling with GPU streaming multiprocessor resource contention
 
 1. This is the experiment code of my unfinished *graduation thesis* regarding to real time scheduling with partitioned-EDF and SM-based allocation algorithm(SMAA). Algorithm for comparison, STGM-busy, WFD-NA, WFD-SMA and RA-NA will be coded in near future, no later than the last day of this year!
 2. Under the directory `${pwd}/`, use the command `make` to compile the project and get the executive file `main`.
@@ -14,5 +14,8 @@
 |Number of GPU segments| 0~3|
 |Task Period|            100~500|
 |G_i / WCET|             0.1~0.2|
+
+# result
+![SMAA wrecker](./pics/untitled.jpg)
 
 last updating time: Dec. 7th, 2024
